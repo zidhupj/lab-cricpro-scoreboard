@@ -1,8 +1,8 @@
-#ProGrad
+# ProGrad
 
-##LAB | CricPro ScoreBoard 
+## LAB | CricPro ScoreBoard 
 
-##What should you do?
+## What should you do?
 
 Fork this repo
 Clone this repo
