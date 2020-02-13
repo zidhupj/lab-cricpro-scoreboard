@@ -3,10 +3,12 @@
 ## LAB | CricPro ScoreBoard 
 
 ## What should you do?
-
+```
 Fork this repo
 Clone this repo
 Practice JavaScript basics - operators, conditions, loops
+```
+```
 How do you submit?
 Upon completion, run the following commands:
 
@@ -14,7 +16,7 @@ git add .
 git commit -m "prograd ID"
 git push origin master
 Create a pull request so your teaching mentors can check your work.
-
+```
 Starter code
 The src/data.js contains an array of 250 players. We are talking about the array of 250 objects containing the info about each player. Here is one example of how the data is displayed:
 
