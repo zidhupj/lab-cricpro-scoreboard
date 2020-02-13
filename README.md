@@ -25,7 +25,9 @@ Remember to focus on one test at a time and read carefully the instructions to u
 ```
 ```
 Trial 1: !
-Every team starts off with a manager. We need someone to take care of them when Alex isn't around. Create a function createManager() that gets the manager's details managerName, managerAge, currentTeam, trophiesWon in the same order, and return an array with the manager's details.
+Every team starts off with a manager. 
+We need someone to take care of them when Alex isn't around. 
+Create a function createManager() that gets the manager's details managerName, managerAge, currentTeam, trophiesWon in the same order, and return an array with the manager's details.
 ```
 ```
 Trial 2: Let's pop it off!
