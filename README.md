@@ -1,4 +1,5 @@
 ProGrad
+
 LAB | ProGrad Premier League
 Alex is a young enterprenuer who is out to assemble his own football team to enter the FPL. Ambitious much? Well, he seems to have to resources to do it though. He has collected data of players across various teams. He now needs to arrange this data so he can make sense of it. He needs an application that will help him compare and contrast abilities of different players.
 
@@ -16,6 +17,23 @@ git commit -m "prograd ID"
 git push origin master
 Create a pull request so your teaching mentors can check your work.
 
+Starter code
+The src/data.js contains an array of 250 players. We are talking about the array of 250 objects containing the info about each player. Here is one example of how the data is displayed:
+
+{
+    name: 'Ashley Young',
+    age: 34,
+    debut: 2011,
+    team: 'Manchester Utd',
+    position: 'Defender',
+    country: 'England',
+    awards: [
+        {
+            name: "Golden Foot",
+            year: 2015
+        }
+    ]
+}
 Tests
 Ohh yes! We have our beloved tests, and you already know how this works. Open the SpecRunner.html file on your browser and start coding to pass the test. Remember to focus on one test at a time and read carefully the instructions to understand what you have to do.
 
