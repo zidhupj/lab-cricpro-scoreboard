@@ -47,6 +47,6 @@ Once you have tabulated the scores, create a pop up which opens up on clicking a
 
 ## Expected Output
 Here is a screenshot of the expected output.
-[image]
+![Image description](https://i1.faceprep.in/ProGrad/cricpro.png)
 
 Happy Coding ❤️
